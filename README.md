@@ -1,19 +1,13 @@
 # Lab10Web 
 OOP (Object-oriented programming)
 
-###### Nama : Fara Deviana
-###### NIM : 312010407
+###### Nama : Veronika Desna Fau
+###### NIM : 312010295
 ###### Kelas : TI.A.2
 
 ## Tugas PHP
 
 Praktikum 10: PHP OOP
-
-Tujuan
-
-1. Mahasiswa mampu memahami konsep dasar OOP. 
-2. Mahasiswa mampu memahami konsep dasar Class dan Object. 
-3. Mahasaswa mampu membuat program OOP sederhana menggunakan PHP.
 
 Instruksi Praktikum
 
@@ -49,7 +43,7 @@ output
 
 ![](img/7%20tujuh.jpg)
 
-###### done
+
 
 
 
